@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / secrets
+.env
+secrets.json
+config.json
+
+# Virtual environment
+venv/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
